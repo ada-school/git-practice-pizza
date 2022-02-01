@@ -7,4 +7,5 @@
 5 colocar la salsa
 6 agregar los ingredientes
 7 hornear
-8 servir
+8 partir en 8 porsiones iguales
+9 disfrutar
